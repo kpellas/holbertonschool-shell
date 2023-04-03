@@ -1,1 +1,1 @@
-Script to show working directory!
+hell, init files, varibles and expansions
